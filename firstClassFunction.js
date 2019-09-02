@@ -53,5 +53,8 @@ function sum(value){
     }
 }
 
+
+
+
 var getResult = sum(3);
 console.log(getResult(10));
