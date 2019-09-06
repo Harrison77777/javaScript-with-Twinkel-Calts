@@ -61,3 +61,5 @@ function loop(arr, callback){
 loop(myArray, function(el, i){
     console.log(el + 'index is = ' + (i+1));
 });
+
+
